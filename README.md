@@ -1,0 +1,2 @@
+# spacewalker
+Walk Python namespaces
